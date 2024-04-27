@@ -1,0 +1,31 @@
+/* selectores global */
+*{
+margin: 0;
+padding: 0;
+}
+/* selector basico */
+body{
+    border: solid red; 
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin-top: 40px;
+}
+
+form{
+    border: solid green 10px;
+    border-radius: 16px;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 8px;
+}
+
+/* encanezado */

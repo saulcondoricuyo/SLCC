@@ -1,0 +1,20 @@
+header {
+    border: solid;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+}
+
+span{
+    border: solid;
+}
+
+ul{
+    list-style: none;
+    border: solid;
+    display: flex;
+}
+
+li{
+    margin-right: 10px;
+}
